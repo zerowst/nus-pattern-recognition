@@ -1,4 +1,4 @@
-These are the files of CA2 of EE5907 Pattern Recognition.
+# These are the files of CA2 of EE5907 Pattern Recognition.
 
 The implementation of these algorithms PCA, LDA, SVM, CNN are stored in four files with corresponding name 
 respectively. 
